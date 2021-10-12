@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Chenwangdexiwang/Chenwangdexiwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=banxian.banxian)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Chenwangdexiwang/Chenwangdexiwang/main/javascript-frameworks-animate.svg" width="360" height="100%" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Chenwangdexiwang/Chenwangdexiwang/main/javascript-frameworks-animate.svg" width="320" height="100%" />
+
 
 **技术栈:**
 
