@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=banxian.banxian)
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Chenwangdexiwang/Chenwangdexiwang/main/javascript-frameworks-animate.svg" width="320" height="100%" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Chenwangdexiwang/Chenwangdexiwang/main/javascript-frameworks-animate.svg" width="330px" height="100%" />
 
 
 **技术栈:**
